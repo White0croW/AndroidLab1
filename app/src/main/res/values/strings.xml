@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLab1</string>
+    <string name="button">Отобразить</string>
+    <string name="hint">Введите текст!</string>
+</resources>
